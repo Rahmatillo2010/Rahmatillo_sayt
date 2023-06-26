@@ -1,0 +1,5 @@
+kortej = (1,2,3,4,5,6,7)
+royxat  = list(kortej)
+royxat.pop()
+kortej=tuple(royxat)
+print(kortej)
